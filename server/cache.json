@@ -1,0 +1,915 @@
+{
+  "books": [
+    {
+      "id": "bde06fb8-9111-4aee-98df-e5533063f29d",
+      "title": "NEC「ミスターバイオ」の挑戦─AI創薬で「死の谷」を越えた20年の軌跡",
+      "authors": [
+        "土肥俊"
+      ],
+      "bookUrl": "https://bookwalker.jp/debde06fb8-9111-4aee-98df-e5533063f29d/",
+      "releaseDate": "2026/9/17",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "be2d40dd-dc65-4cb6-9928-0066ea3c045f",
+      "title": "「黒字なのにずっと苦しい」会社の“税理士ミスマッチ” 社長！そろそろ税理士交代しませんか？",
+      "authors": [
+        "久野康成"
+      ],
+      "bookUrl": "https://bookwalker.jp/debe2d40dd-dc65-4cb6-9928-0066ea3c045f/",
+      "releaseDate": "2026/9/2",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "東京コンサルティンググループ",
+      "employerUrl": "https://kuno-cpa.co.jp/",
+      "employerPhone": "03-5369-2930",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "af7d92c4-fd08-4ffb-ad84-99d614b5ef95",
+      "title": "TURNAROUND Schick Japan The Proven Recipe for Corporate Transformation",
+      "authors": [
+        "Hideo Goto"
+      ],
+      "bookUrl": "https://bookwalker.jp/deaf7d92c4-fd08-4ffb-ad84-99d614b5ef95/",
+      "releaseDate": "2026/9/1",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "65d3f7b4-3978-4aa4-bbf2-b43e0288e06c",
+      "title": "組織で成果を出す「AI推進」の教科書 ─ＡＩ担当者の「次の一手」が分かる─",
+      "authors": [
+        "寺田昇平"
+      ],
+      "bookUrl": "https://bookwalker.jp/de65d3f7b4-3978-4aa4-bbf2-b43e0288e06c/",
+      "releaseDate": "2026/8/31",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "e1e1303f-762d-47b6-8a75-e3f0774dcec3",
+      "title": "組織を創り持続的成長を実現する５つの人資本 リーダーシップ・キャピタルズ",
+      "authors": [
+        "宮下剛"
+      ],
+      "bookUrl": "https://bookwalker.jp/dee1e1303f-762d-47b6-8a75-e3f0774dcec3/",
+      "releaseDate": "2026/8/5",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "0d264e86-7152-4287-9bac-509a35c89630",
+      "title": "この一冊で不安を解消！空き家・空き地の手放し方",
+      "authors": [
+        "宮川大輝"
+      ],
+      "bookUrl": "https://bookwalker.jp/de0d264e86-7152-4287-9bac-509a35c89630/",
+      "releaseDate": "2026/8/4",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "a529621b-e0f6-4966-97d9-ec06514cb9a4",
+      "title": "五代目のリアル 老舗企業の革新に挑む“自分流”経営",
+      "authors": [
+        "佐藤正宗"
+      ],
+      "bookUrl": "https://bookwalker.jp/dea529621b-e0f6-4966-97d9-ec06514cb9a4/",
+      "releaseDate": "2026/8/4",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "c6c86fe6-9066-4d6a-9cf2-1d440541ca28",
+      "title": "オリオンビールはなぜ愛され続けるのか",
+      "authors": [
+        "村野一"
+      ],
+      "bookUrl": "https://bookwalker.jp/dec6c86fe6-9066-4d6a-9cf2-1d440541ca28/",
+      "releaseDate": "2026/8/3",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "97df7e41-15e1-4b0c-87fb-05948427a00d",
+      "title": "文脈学 こいつ、何が言いたいん？をなくす思考のトレーニング",
+      "authors": [
+        "山口郁未"
+      ],
+      "bookUrl": "https://bookwalker.jp/de97df7e41-15e1-4b0c-87fb-05948427a00d/",
+      "releaseDate": "2026/7/28",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "a72c0d5d-4599-4d52-bfb3-e16ffb0396a2",
+      "title": "監査法人の原点 ［三訂版］",
+      "authors": [
+        "小笠原直"
+      ],
+      "bookUrl": "https://bookwalker.jp/dea72c0d5d-4599-4d52-bfb3-e16ffb0396a2/",
+      "releaseDate": "2026/7/27",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "155e49d7-f314-41c5-bfd2-a6cb86112fa3",
+      "title": "凡才の経営 年商3億円の会社の後継者が１0年で60億円にできた理由",
+      "authors": [
+        "川上聡一朗"
+      ],
+      "bookUrl": "https://bookwalker.jp/de155e49d7-f314-41c5-bfd2-a6cb86112fa3/",
+      "releaseDate": "2026/7/21",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "d63a659e-c7ce-405b-b137-3ceff85ca90f",
+      "title": "経営者の死角 見えていないものにこそ経営の真理がある",
+      "authors": [
+        "中島敦"
+      ],
+      "bookUrl": "https://bookwalker.jp/ded63a659e-c7ce-405b-b137-3ceff85ca90f/",
+      "releaseDate": "2026/7/1",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社第一不動産",
+      "employerUrl": "https://www.daiichi-fu.co.jp/",
+      "employerPhone": "054-272-1111",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "e7f93f45-eb9d-4725-b91d-8d5016306885",
+      "title": "プレイングマネジャーの流儀 語り合いでつくる最高の介護事業",
+      "authors": [
+        "脇健仁"
+      ],
+      "bookUrl": "https://bookwalker.jp/dee7f93f45-eb9d-4725-b91d-8d5016306885/",
+      "releaseDate": "2026/7/1",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社ゆりかご",
+      "employerUrl": "https://www.yurikago-kaigo.com/",
+      "employerPhone": "029-229-7562",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "111de9ec-9957-49d7-bd12-b44536e6d93d",
+      "title": "VOC構造化分析で隠れた不満を見抜く！ チャットボット時代のリテンションマーケティング",
+      "authors": [
+        "佐野敏哉"
+      ],
+      "bookUrl": "https://bookwalker.jp/de111de9ec-9957-49d7-bd12-b44536e6d93d/",
+      "releaseDate": "2026/6/30",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社Smash",
+      "employerUrl": "https://smash.ne.jp/",
+      "employerPhone": "03-3406-8858",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "3647bc0b-30a8-4863-a682-dfaf9b4f9a4d",
+      "title": "高所得者必見 破壊的に儲かる資産戦略 中古アパート×減価償却×出口戦略で手取りを最大化",
+      "authors": [
+        "露木裕良"
+      ],
+      "bookUrl": "https://bookwalker.jp/de3647bc0b-30a8-4863-a682-dfaf9b4f9a4d/",
+      "releaseDate": "2026/6/29",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "ZAE Japan株式会社",
+      "employerUrl": "https://zae.jp/",
+      "employerPhone": "03-6860-8392",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "24b3755b-0876-40c8-8251-82655f4d860f",
+      "title": "生命保険業界トップの営業哲学",
+      "authors": [
+        "本多良美"
+      ],
+      "bookUrl": "https://bookwalker.jp/de24b3755b-0876-40c8-8251-82655f4d860f/",
+      "releaseDate": "2026/6/24",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "76b85e86-be3b-4202-b8cc-498e1d556e1c",
+      "title": "一次情報を「問う」 ＢtoＢ企業のためのターゲットドリブン戦略",
+      "authors": [
+        "端羽英子"
+      ],
+      "bookUrl": "https://bookwalker.jp/de76b85e86-be3b-4202-b8cc-498e1d556e1c/",
+      "releaseDate": "2026/6/22",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社ビザスク",
+      "employerUrl": "https://corp.visasq.co.jp/",
+      "employerPhone": "03-6407-8405",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "23674c43-30a6-4d45-93cf-815deb85c3ce",
+      "title": "よみがえろう 日本のデジタル産業の未来へ",
+      "authors": [
+        "河原春郎"
+      ],
+      "bookUrl": "https://bookwalker.jp/de23674c43-30a6-4d45-93cf-815deb85c3ce/",
+      "releaseDate": "2026/6/12",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "ce0cb0c6-b9ac-41a3-97e0-12add6affb93",
+      "title": "改訂版 経営は牛のよだれ 小さな企業の一流化",
+      "authors": [
+        "西岡仁克"
+      ],
+      "bookUrl": "https://bookwalker.jp/dece0cb0c6-b9ac-41a3-97e0-12add6affb93/",
+      "releaseDate": "2026/5/15",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "a1f9f097-9ebe-4c0f-91b8-65468062ad9d",
+      "title": "最強の消防設備士",
+      "authors": [
+        "木下智之"
+      ],
+      "bookUrl": "https://bookwalker.jp/dea1f9f097-9ebe-4c0f-91b8-65468062ad9d/",
+      "releaseDate": "2026/4/20",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "合同会社ゆうあい防災",
+      "employerUrl": "https://ui-b.co.jp/",
+      "employerPhone": "047-409-5255",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "b471d75d-99e8-435e-b9a5-36682b9932f7",
+      "title": "中小企業のSDGs、CSR/サステナビリティの実践力を育てるハンドブック 実務担当者のための20問20答",
+      "authors": [
+        "木村則昭"
+      ],
+      "bookUrl": "https://bookwalker.jp/deb471d75d-99e8-435e-b9a5-36682b9932f7/",
+      "releaseDate": "2026/3/31",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "262c527f-991c-40e8-8622-a624cda8d5e5",
+      "title": "食はいのち",
+      "authors": [
+        "橋本志津"
+      ],
+      "bookUrl": "https://bookwalker.jp/de262c527f-991c-40e8-8622-a624cda8d5e5/",
+      "releaseDate": "2026/3/27",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社アーク",
+      "employerUrl": "https://www.arkfarm.co.jp/",
+      "employerPhone": "0191-63-5151",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "f9853fc4-002a-459c-85d0-41f307e502fd",
+      "title": "実践！人事労務メンタルヘルス対応パーフェクトガイド 実務レベルで分かる正しい初動と支援",
+      "authors": [
+        "清水隆司"
+      ],
+      "bookUrl": "https://bookwalker.jp/def9853fc4-002a-459c-85d0-41f307e502fd/",
+      "releaseDate": "2026/3/27",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社JPRON（日本メディメンタル研究所）",
+      "employerUrl": "https://www.medi-mental.com/",
+      "employerPhone": "03-5953-1540",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "eca93b0e-246d-4ea8-9adc-32d0311782bd",
+      "title": "アクションファースト シリコンバレーで成果を出す日本企業CVC実践論",
+      "authors": [
+        "杉野Scott祐介"
+      ],
+      "bookUrl": "https://bookwalker.jp/deeca93b0e-246d-4ea8-9adc-32d0311782bd/",
+      "releaseDate": "2026/3/18",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "80979466-625b-4487-9b18-f1b13c4a9cc4",
+      "title": "創薬ベンチャー大全 薬業支援家―医療の未来を支える新しい挑戦者たち",
+      "authors": [
+        "鈴木聡"
+      ],
+      "bookUrl": "https://bookwalker.jp/de80979466-625b-4487-9b18-f1b13c4a9cc4/",
+      "releaseDate": "2026/3/13",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "合同会社鈴木聡薬業事務所",
+      "employerUrl": "https://j-sspo.com/",
+      "employerPhone": "公開なし",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "69cbe33d-888c-412a-8bc8-da2e372ab383",
+      "title": "選ばれない国 ニッポン 外国人材を誘致するための５つの提言",
+      "authors": [
+        "仲思遥"
+      ],
+      "bookUrl": "https://bookwalker.jp/de69cbe33d-888c-412a-8bc8-da2e372ab383/",
+      "releaseDate": "2026/3/3",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社Linc",
+      "employerUrl": "https://linc-info.com/",
+      "employerPhone": "公開なし",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "75205acb-774f-4205-a835-c7a390dba858",
+      "title": "「試せない建築」を経営資産に変える ─全てのクライアントに後悔のない建築を─",
+      "authors": [
+        "横松邦明"
+      ],
+      "bookUrl": "https://bookwalker.jp/de75205acb-774f-4205-a835-c7a390dba858/",
+      "releaseDate": "2026/2/27",
+      "facebookUrl": "",
+      "instagramUrl": "https://www.instagram.com/kuni_architect/",
+      "employerName": "株式会社横松建築設計事務所",
+      "employerUrl": "https://www.yokomatsu.info/",
+      "employerPhone": "028-635-7226",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "e8f71525-56fc-4858-9a81-43d5eecb5f54",
+      "title": "選ばれ、愛される B級キャラクターのつくり方",
+      "authors": [
+        "前田昌克"
+      ],
+      "bookUrl": "https://bookwalker.jp/dee8f71525-56fc-4858-9a81-43d5eecb5f54/",
+      "releaseDate": "2026/2/27",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "0f274c9c-9bd3-4c31-abe0-e386ba9c8edb",
+      "title": "ヒット商品を生み出す！ 認識のからくり",
+      "authors": [
+        "松本淳"
+      ],
+      "bookUrl": "https://bookwalker.jp/de0f274c9c-9bd3-4c31-abe0-e386ba9c8edb/",
+      "releaseDate": "2026/2/18",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "株式会社エムスリー・カンパニー",
+      "employerUrl": "https://m3c.co.jp/",
+      "employerPhone": "公開なし",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "8da17604-7a29-42f0-bc41-210597821e65",
+      "title": "国際ビジネスマン",
+      "authors": [
+        "弥富泰男"
+      ],
+      "bookUrl": "https://bookwalker.jp/de8da17604-7a29-42f0-bc41-210597821e65/",
+      "releaseDate": "2026/2/13",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "c2d4d7f7-3a5b-421b-a23c-5465e02821bb",
+      "title": "ゼロから６年で３５院を達成！ 美容クリニック経営 成功の教科書７０箇条",
+      "authors": [
+        "武内大"
+      ],
+      "bookUrl": "https://bookwalker.jp/dec2d4d7f7-3a5b-421b-a23c-5465e02821bb/",
+      "releaseDate": "2026/2/13",
+      "facebookUrl": "",
+      "instagramUrl": "https://www.instagram.com/daitakeuchi0428/",
+      "employerName": "LULA美容クリニック",
+      "employerUrl": "https://lula-shinjuku.com/",
+      "employerPhone": "03-6265-9310",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "00504ad6-2415-445d-a8b3-291a6222d7a1",
+      "title": "「感動」を建てる 15期連続増収を実現するハウスビルダーの秘密",
+      "authors": [
+        "遠藤真二"
+      ],
+      "bookUrl": "https://bookwalker.jp/de00504ad6-2415-445d-a8b3-291a6222d7a1/",
+      "releaseDate": "2026/2/4",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "7bc0d67a-6969-4ca4-998b-1dbfd70c880c",
+      "title": "いちばんわかりやすい！ 食品通販ビジネスの教科書",
+      "authors": [
+        "リライズコンサルティング株式会社"
+      ],
+      "bookUrl": "https://bookwalker.jp/de7bc0d67a-6969-4ca4-998b-1dbfd70c880c/",
+      "releaseDate": "2026/2/3",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "リライズコンサルティング株式会社",
+      "employerUrl": "https://rerise-consulting.com/",
+      "employerPhone": "06-4708-6044",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "da381a10-870f-4541-bf9e-15fa5612273c",
+      "title": "10万人の肌を救ったエステティシャンの美容哲学",
+      "authors": [
+        "岩永恵琴"
+      ],
+      "bookUrl": "https://bookwalker.jp/deda381a10-870f-4541-bf9e-15fa5612273c/",
+      "releaseDate": "2026/2/3",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "44ff1612-dd67-4343-abb2-b117440eea2b",
+      "title": "青雲の志を燃やせ 結果を出すための魂の言葉",
+      "authors": [
+        "橋本隆司"
+      ],
+      "bookUrl": "https://bookwalker.jp/de44ff1612-dd67-4343-abb2-b117440eea2b/",
+      "releaseDate": "2026/2/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "6662f9f4-dbec-4a72-9dec-9c050474dd25",
+      "title": "【起業家・経営層】 必読ガイド ～中小事業の可能性を見つける～ 補助金虎の巻 ―補助金を知る、もらう、役立てる―",
+      "authors": [
+        "満木大"
+      ],
+      "bookUrl": "https://bookwalker.jp/de6662f9f4-dbec-4a72-9dec-9c050474dd25/",
+      "releaseDate": "2026/1/30",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "90a51f7e-b0cf-46d5-8850-77030291b228",
+      "title": "富裕層のための相続設計術 相続は誰に任せるかで未来が変わる",
+      "authors": [
+        "曽根恵子"
+      ],
+      "bookUrl": "https://bookwalker.jp/de90a51f7e-b0cf-46d5-8850-77030291b228/",
+      "releaseDate": "2026/1/30",
+      "facebookUrl": "",
+      "instagramUrl": "https://www.instagram.com/sone.keiko.yume/",
+      "employerName": "株式会社夢相続",
+      "employerUrl": "https://www.yume-souzoku.co.jp/",
+      "employerPhone": "03-6222-9233",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "57d4062b-91dd-421e-928c-f08416986b3c",
+      "title": "人を育てる会計学 社員が動き業績が伸びる“共振する組織”のつくりかた",
+      "authors": [
+        "井関新吾"
+      ],
+      "bookUrl": "https://bookwalker.jp/de57d4062b-91dd-421e-928c-f08416986b3c/",
+      "releaseDate": "2026/1/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "7b8e917f-6aae-48a2-b5d1-5d7b855498d9",
+      "title": "ここが変だよ 日本の介護福祉",
+      "authors": [
+        "鈴木しげ"
+      ],
+      "bookUrl": "https://bookwalker.jp/de7b8e917f-6aae-48a2-b5d1-5d7b855498d9/",
+      "releaseDate": "2025/12/26",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "2eae4202-ddc8-4631-a9b5-3c72086b088f",
+      "title": "現金10億経営 会社をキャッシュリッチに 変える経営戦略",
+      "authors": [
+        "久野康成"
+      ],
+      "bookUrl": "https://bookwalker.jp/de2eae4202-ddc8-4631-a9b5-3c72086b088f/",
+      "releaseDate": "2025/12/2",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employerName": "東京コンサルティンググループ",
+      "employerUrl": "https://kuno-cpa.co.jp/",
+      "employerPhone": "03-5369-2930",
+      "employmentStatus": "confirmed"
+    },
+    {
+      "id": "a32e030d-b48e-4dd3-a788-59c2819842ec",
+      "title": "病院経営 百年の約束 地域に必要とされ続けるために病院が守るべき大切なこと",
+      "authors": [
+        "熊谷安夫"
+      ],
+      "bookUrl": "https://bookwalker.jp/dea32e030d-b48e-4dd3-a788-59c2819842ec/",
+      "releaseDate": "2025/12/1",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "e38c5ce3-f054-4c6f-a006-cf935f10055f",
+      "title": "VOICE TO PROFIT 業務効率を劇的に向上させる音声認識ＡＩの実力",
+      "authors": [
+        "ライアンチョウ"
+      ],
+      "bookUrl": "https://bookwalker.jp/dee38c5ce3-f054-4c6f-a006-cf935f10055f/",
+      "releaseDate": "2025/11/19",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "fe0c5aab-a62e-4c5a-b6de-aa13c590dbab",
+      "title": "社員が覚醒する社内イベント",
+      "authors": [
+        "原田浩司"
+      ],
+      "bookUrl": "https://bookwalker.jp/defe0c5aab-a62e-4c5a-b6de-aa13c590dbab/",
+      "releaseDate": "2025/11/18",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "52e69e14-0776-43ac-bdad-b127aa94e010",
+      "title": "「すごさ」の認め方 考え方の違う人と仲間になれる「器」と「技術」",
+      "authors": [
+        "篠田真宏"
+      ],
+      "bookUrl": "https://bookwalker.jp/de52e69e14-0776-43ac-bdad-b127aa94e010/",
+      "releaseDate": "2025/11/14",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "5f23868d-39be-41e7-b6ce-436f5ce32752",
+      "title": "人を育てる ～事例に学ぶ～",
+      "authors": [
+        "平石奎太"
+      ],
+      "bookUrl": "https://bookwalker.jp/de5f23868d-39be-41e7-b6ce-436f5ce32752/",
+      "releaseDate": "2025/11/14",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "9ff03edf-6795-4422-af4d-851a1229e2dd",
+      "title": "業務指示マスターガイド 成果を生む指示の書き方の極意",
+      "authors": [
+        "株式会社リンコム カスタマーサクセス部 カスタマーサクセス スペシャリスト 江上小百合",
+        "細野文孝",
+        "玉城忠"
+      ],
+      "bookUrl": "https://bookwalker.jp/de9ff03edf-6795-4422-af4d-851a1229e2dd/",
+      "releaseDate": "2025/11/14",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "34537c19-4e73-4733-b551-fc8bf2470e25",
+      "title": "耄狂耄語",
+      "authors": [
+        "松浦誠司"
+      ],
+      "bookUrl": "https://bookwalker.jp/de34537c19-4e73-4733-b551-fc8bf2470e25/",
+      "releaseDate": "2025/10/31",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "6f357e40-1092-4539-9fa3-7dbbe612ea0e",
+      "title": "スーパーに就職するなら、「店長」がいちばん面白い！ “GMSの奇跡” 店長はその時何をしていたのか",
+      "authors": [
+        "徳田爽生"
+      ],
+      "bookUrl": "https://bookwalker.jp/de6f357e40-1092-4539-9fa3-7dbbe612ea0e/",
+      "releaseDate": "2025/10/31",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "f06fca19-dcf7-45bf-b4fe-bf16678363e6",
+      "title": "非上場の政策保有（持ち合い）株式を賢く売却する方法",
+      "authors": [
+        "喜多洲山"
+      ],
+      "bookUrl": "https://bookwalker.jp/def06fca19-dcf7-45bf-b4fe-bf16678363e6/",
+      "releaseDate": "2025/10/27",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "80a0a2c1-c555-4e43-82cc-291774647458",
+      "title": "目標達成人",
+      "authors": [
+        "日本人事労務研究所所長 久保誠"
+      ],
+      "bookUrl": "https://bookwalker.jp/de80a0a2c1-c555-4e43-82cc-291774647458/",
+      "releaseDate": "2025/10/10",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "5d6dab54-43c4-430d-85df-0e4a6aa393b8",
+      "title": "新規事業開発を成功に導く 超実践 ０▶１攻略ガイド",
+      "authors": [
+        "阿部拓貴"
+      ],
+      "bookUrl": "https://bookwalker.jp/de5d6dab54-43c4-430d-85df-0e4a6aa393b8/",
+      "releaseDate": "2025/9/25",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "0c00eb3d-115a-4466-9265-031c0276f4eb",
+      "title": "都会のOLだった私が地方で赤字続きの会社を引き継ぎ“Ｖ字回復”できた理由",
+      "authors": [
+        "岩本恭子"
+      ],
+      "bookUrl": "https://bookwalker.jp/de0c00eb3d-115a-4466-9265-031c0276f4eb/",
+      "releaseDate": "2025/9/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "a05f0f0b-3e9e-4c7b-9e89-757f809c7028",
+      "title": "STOP！ 迷走DX デキる上司のためのITリテラシー改革",
+      "authors": [
+        "住田賢司"
+      ],
+      "bookUrl": "https://bookwalker.jp/dea05f0f0b-3e9e-4c7b-9e89-757f809c7028/",
+      "releaseDate": "2025/9/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "31a579fc-56e7-4c0e-b58f-b686e28eda87",
+      "title": "逆転の“最弱商材” 豆腐屋ブランディング",
+      "authors": [
+        "平川大計"
+      ],
+      "bookUrl": "https://bookwalker.jp/de31a579fc-56e7-4c0e-b58f-b686e28eda87/",
+      "releaseDate": "2025/9/1",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "680f33f6-407c-4f2c-9bd3-cd93a0cb9201",
+      "title": "1/30000の奇跡 空白の治療領域に挑む創薬ベンチャー",
+      "authors": [
+        "吉田文紀"
+      ],
+      "bookUrl": "https://bookwalker.jp/de680f33f6-407c-4f2c-9bd3-cd93a0cb9201/",
+      "releaseDate": "2025/8/26",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "f7babc63-224c-4d99-a4f0-7cb89c796501",
+      "title": "調達の最適解 あるべき調達組織・人的資本の探究",
+      "authors": [
+        "田中俊英"
+      ],
+      "bookUrl": "https://bookwalker.jp/def7babc63-224c-4d99-a4f0-7cb89c796501/",
+      "releaseDate": "2025/8/8",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "4a89e2a7-c5a0-4f3c-b482-14ba381bedb7",
+      "title": "新たな事業を開拓する ウエルネス戦略",
+      "authors": [
+        "丹野智宙"
+      ],
+      "bookUrl": "https://bookwalker.jp/de4a89e2a7-c5a0-4f3c-b482-14ba381bedb7/",
+      "releaseDate": "2025/7/30",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "884334b9-deea-4ef1-b9ff-a35ca485983c",
+      "title": "働くことの本質から考える 迷わないキャリアデザイン",
+      "authors": [
+        "今井將一"
+      ],
+      "bookUrl": "https://bookwalker.jp/de884334b9-deea-4ef1-b9ff-a35ca485983c/",
+      "releaseDate": "2025/7/28",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "5069886f-d6d6-49eb-8e0e-47180e4a6165",
+      "title": "未経験者が最速でプログラマーになれる本",
+      "authors": [
+        "勝山祐督"
+      ],
+      "bookUrl": "https://bookwalker.jp/de5069886f-d6d6-49eb-8e0e-47180e4a6165/",
+      "releaseDate": "2025/7/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    },
+    {
+      "id": "f22a863c-fcf8-4a48-9496-14d77dea45d5",
+      "title": "経営者の右腕になる AI時代のITコンサルタント",
+      "authors": [
+        "大野聖一"
+      ],
+      "bookUrl": "https://bookwalker.jp/def22a863c-fcf8-4a48-9496-14d77dea45d5/",
+      "releaseDate": "2025/7/2",
+      "employerName": "未確認",
+      "employerUrl": "",
+      "employerPhone": "未確認",
+      "facebookUrl": "",
+      "instagramUrl": "",
+      "employmentStatus": "unverified"
+    }
+  ],
+  "meta": {
+    "sourceUrl": "https://bookwalker.jp/tag/306/?order=rank&detail=1&qcom=992&np=1",
+    "sourceLabel": "ビジネス × 幻冬舎メディアコンサルティング",
+    "updatedAt": "2026-09-02T08:12:50.956Z",
+    "cached": false,
+    "total": 60,
+    "confirmedEmployers": 17,
+    "notice": "勤務先は公開プロフィールをもとに確認。確認できない著者は「未確認」と表示します。"
+  }
+}
