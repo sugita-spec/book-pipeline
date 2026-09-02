@@ -1,0 +1,10 @@
+node_modules/
+dist/
+outputs/
+work/
+.dev.vars
+.env*
+.wrangler/
+.DS_Store
+npm-debug.log*
+pnpm-debug.log*
