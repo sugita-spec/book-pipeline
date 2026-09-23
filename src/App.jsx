@@ -51,15 +51,20 @@ export function App() {
   const [employmentFilter, setEmploymentFilter] = useState('all')
   const [outreachProfile, setOutreachProfile] = useState(loadOutreachProfile)
   const [copiedBookId, setCopiedBookId] = useState(null)
+  const [copiedPhoneBookId, setCopiedPhoneBookId] = useState(null)
   const [copyError, setCopyError] = useState('')
   const copyResetTimer = useRef(null)
+  const phoneCopyResetTimer = useRef(null)
   const deferredQuery = useDeferredValue(query.trim().toLocaleLowerCase('ja'))
 
   useEffect(() => {
     localStorage.setItem(PROFILE_STORAGE_KEY, JSON.stringify(outreachProfile))
   }, [outreachProfile])
 
-  useEffect(() => () => clearTimeout(copyResetTimer.current), [])
+  useEffect(() => () => {
+    clearTimeout(copyResetTimer.current)
+    clearTimeout(phoneCopyResetTimer.current)
+  }, [])
 
   const handleCopyMessage = useCallback(async (book) => {
     try {
@@ -73,12 +78,26 @@ export function App() {
     }
   }, [outreachProfile])
 
+  const handleCopyPhone = useCallback(async (book) => {
+    try {
+      await copyText(book.employerPhone)
+      setCopyError('')
+      setCopiedPhoneBookId(book.id)
+      clearTimeout(phoneCopyResetTimer.current)
+      phoneCopyResetTimer.current = setTimeout(() => setCopiedPhoneBookId(null), 2400)
+    } catch {
+      setCopyError('電話番号をコピーできませんでした。ブラウザのクリップボード権限をご確認ください。')
+    }
+  }, [])
+
   const visibleBooks = useMemo(() => {
     const employmentFiltered = employmentFilter === 'confirmed'
       ? books.filter((book) => book.employmentStatus === 'confirmed')
-      : books
+      : employmentFilter === 'phone'
+        ? books.filter((book) => book.employerPhone && !['未確認', '公開なし'].includes(book.employerPhone))
+        : books
     const filtered = deferredQuery
-      ? employmentFiltered.filter((book) => `${book.title} ${book.authors.join(' ')} ${book.employerName} ${book.facebookUrl} ${book.instagramUrl}`.toLocaleLowerCase('ja').includes(deferredQuery))
+      ? employmentFiltered.filter((book) => `${book.title} ${book.authors.join(' ')} ${book.employerName} ${book.employerPhone} ${book.facebookUrl} ${book.instagramUrl}`.toLocaleLowerCase('ja').includes(deferredQuery))
       : employmentFiltered
 
     if (sort === 'rank') return filtered
@@ -133,6 +152,7 @@ export function App() {
           count={visibleBooks.length}
           employmentFilter={employmentFilter}
           query={query}
+          phoneCount={books.filter((book) => book.employerPhone && !['未確認', '公開なし'].includes(book.employerPhone)).length}
           setEmploymentFilter={setEmploymentFilter}
           setQuery={setQuery}
           sort={sort}
@@ -142,8 +162,10 @@ export function App() {
           <BooksTable
             books={visibleBooks}
             copiedBookId={copiedBookId}
+            copiedPhoneBookId={copiedPhoneBookId}
             isStale={query.trim().toLocaleLowerCase('ja') !== deferredQuery}
             onCopyMessage={handleCopyMessage}
+            onCopyPhone={handleCopyPhone}
           />
         )}
       </main>
