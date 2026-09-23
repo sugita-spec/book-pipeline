@@ -1,15 +1,15 @@
 import { Icon } from './Icons.jsx'
 
-export function Toolbar({ confirmedCount, count, employmentFilter, query, setEmploymentFilter, setQuery, sort, setSort }) {
+export function Toolbar({ confirmedCount, count, employmentFilter, phoneCount, query, setEmploymentFilter, setQuery, sort, setSort }) {
   return (
     <div className="toolbar">
       <label className="search-field">
-        <span className="sr-only">書名・著者・勤務先で検索</span>
+        <span className="sr-only">書名・著者・勤務先・電話番号で検索</span>
         <Icon name="search" />
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
-          placeholder="書名・著者・勤務先で検索"
+          placeholder="書名・著者・勤務先・電話番号で検索"
           type="search"
         />
       </label>
@@ -18,6 +18,7 @@ export function Toolbar({ confirmedCount, count, employmentFilter, query, setEmp
         <select value={employmentFilter} onChange={(event) => setEmploymentFilter(event.target.value)} aria-label="表示対象">
           <option value="all">すべて</option>
           <option value="confirmed">勤務先確認済み</option>
+          <option value="phone">電話番号あり</option>
         </select>
         <Icon name="chevron" size={16} />
       </label>
@@ -34,6 +35,7 @@ export function Toolbar({ confirmedCount, count, employmentFilter, query, setEmp
       <div className="toolbar-summary">
         <span>表示 <strong>{count}</strong>件</span>
         <span className="verified"><Icon name="check" size={19} /> 勤務先確認済み <strong>{confirmedCount}</strong>件</span>
+        <span className="phone-ready"><Icon name="phone" size={17} /> 電話番号あり <strong>{phoneCount}</strong>件</span>
       </div>
     </div>
   )
