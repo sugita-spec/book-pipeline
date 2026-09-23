@@ -170,8 +170,8 @@ th:nth-child(2) { width: 9%; }
 th:nth-child(3) { width: 8%; }
 th:nth-child(4) { width: 8%; }
 th:nth-child(5) { width: 17%; }
-th:nth-child(6) { width: 11%; }
-th:nth-child(7) { width: 9%; }
+th:nth-child(6) { width: 13%; }
+th:nth-child(7) { width: 10%; }
 th:nth-child(8) { width: 7%; }
 th:nth-child(9) { width: 8%; }
 tbody tr { content-visibility: auto; contain-intrinsic-size: 0 72px; }
@@ -197,7 +197,15 @@ tbody tr:hover .title-cell { border-left-color: var(--accent); }
 .muted-value { color: #8a91a0; }
 .inline-link { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; white-space: nowrap; }
 .inline-link:hover { color: var(--accent); }
-.phone-link { font-variant-numeric: tabular-nums; }
+.phone-cell { min-width: 154px; }
+.phone-actions { display: grid; justify-items: start; gap: 7px; }
+.phone-link { display: inline-flex; align-items: center; gap: 6px; color: #176443; font-weight: 800; font-variant-numeric: tabular-nums; text-decoration: none; white-space: nowrap; }
+.phone-link:hover { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; }
+.phone-copy-button { display: inline-flex; align-items: center; gap: 5px; border: 1px solid #b8c5d8; border-radius: 4px; padding: 4px 7px; background: #fff; color: #40516b; font-size: 10px; font-weight: 700; cursor: pointer; }
+.phone-copy-button:hover { border-color: #176443; color: #176443; }
+.phone-copy-button.is-copied { border-color: #1f7a55; background: #edf9f3; color: #176443; }
+.phone-copy-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.phone-ready { color: #176443; }
 .social-link { display: inline-flex; align-items: center; gap: 7px; color: #294063; text-decoration: none; white-space: nowrap; }
 .social-link:hover { color: var(--accent); }
 .social-link svg { flex: 0 0 auto; }
